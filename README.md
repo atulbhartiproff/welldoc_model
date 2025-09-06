@@ -64,7 +64,7 @@ cardio-risk-predictor/
 
 Link: [https://cardio-risk-predictor.streamlit.app](https://cardio-risk-predictor.streamlit.app) (example)
 
-## 🎯 Next Steps
+## 🎯 Next Step
 
 * Integrate real-time data source (MIMIC-III).
 * Deploy production-grade model pipeline.
