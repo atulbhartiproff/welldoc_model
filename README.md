@@ -8,7 +8,7 @@ This project implements a **Time Series Transformer-based Risk Prediction Engine
 
 * Transformer-based architecture (Informer / Time Series Transformer).
 * Handles sequential time-series input data.
-* Predicts the probability of cardiovascular deterioration in the next 90 days.
+* Predicts the probability of cardiovascular deterioration within the next 90 days.
 * Provides global and local explainability for model decisions.
 * Includes a prototype dashboard for visualizing patient risk scores and explanations.
 
