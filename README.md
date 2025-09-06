@@ -72,4 +72,3 @@ Link: [https://cardio-risk-predictor.streamlit.app](https://cardio-risk-predicto
 
 ---
 
-Created by Atul Bharti | Engineering Student | 2025
